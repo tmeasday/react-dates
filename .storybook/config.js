@@ -1,6 +1,7 @@
 import React from 'react';
 import moment from 'moment';
 import aphroditeInterface from 'react-with-styles-interface-aphrodite';
+import 'react-chromatic/storybook-addon';
 
 import { configure, addDecorator, setAddon } from '@storybook/react';
 import infoAddon from '@storybook/addon-info';
